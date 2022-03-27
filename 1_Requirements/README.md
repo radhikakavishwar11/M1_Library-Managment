@@ -23,3 +23,7 @@ The system is use for issuing ,return the book by the given mail id.
   * Risk of virus.
   * Need high speed internet connection.
   * Data can be hacked
+# Opportunities
+  This can increase the reading habbit of books in people and can can help out many other people if they wanted the books.This can also move towards high technology   service libraries will have to navigate by this kind of method also.
+  # Threats
+  The library data can have be hack so encryption have to be done right so the data cannot be in hands of wrong persons.
